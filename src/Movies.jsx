@@ -1,4 +1,3 @@
-import { Fragment, useRef } from "react";
 import { useState } from "react";
 import AddMovie from "./AddMovie";
 

@@ -1,7 +1,6 @@
 import './App.css';
-import { useState } from "react";
 import React from "react";
-import { BrowserRouter as Router, useRouteMatch, Switch, Route, Link} from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route} from "react-router-dom";
 import Movies from "./Movies"
 import Navbar from "./Navbar";
 
